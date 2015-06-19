@@ -3,18 +3,20 @@
 A semantic HTML/CSS framework base theme for WordPress Developers ported from Twitter Bootstrap
 
   - News feed on home page
-  - Running on Bootstrap CSS
+  - Home, footer & sidebar widgets
+  - Bootstrap 3
   - Home page load bar
   - Animated drop down menu 
   - Alternate load bars available
+  - It's Free
 
 Bootstrap 3 Barebones is a lightweight WordPress theme based on Solely on Bootstrap that developers naturally use:
 
-> I will be doing a tutorial on how
+> I will be doing a online tutorial on how
 > to build this from scratch to finish. 
 > I'll let you know when it's ready...
 
-[Power Of The Web]
+Bookmark my website and stay updated - [Power Of The Web]
 
 # Home Page - Screenshot
 
@@ -23,6 +25,14 @@ Bootstrap 3 Barebones is a lightweight WordPress theme based on Solely on Bootst
 # Post - Screenshot
 
 ![ScreenShot](https://poweroftheweb.net/wp-content/uploads/2015/06/screenshot2.jpg)
+
+> This WordPress theme is built truly on Bootstrap
+> styles and Bootstrap JavaScript. Their are few added extra 
+> styles & functions for the menu and load bar. 
+> Take this template turn it into something magical, 
+> I did. The designs are endless.
+
+I will be updating the theme on a weekly basis. Fork if you enjoy it! 
 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
