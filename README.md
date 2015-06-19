@@ -26,8 +26,9 @@ Bookmark my website and stay updated - [Power Of The Web]
 
 ![ScreenShot](https://poweroftheweb.net/wp-content/uploads/2015/06/screenshot2.jpg)
 
-> This WordPress theme is built truly on Bootstrap
-> styles and Bootstrap JavaScript. Their are few added extra 
+
+> This WordPress theme is truly built on Bootstrap 3.
+> Their are few added extra 
 > styles & functions for the menu and load bar. 
 > Take this template turn it into something magical, 
 > I did. The designs are endless.
