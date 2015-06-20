@@ -24,7 +24,7 @@ Bookmark my website and stay updated - [Power Of The Web]
 
 # Post - Screenshot
 
-![ScreenShot](hhttps://poweroftheweb.net/wp-content/uploads/2015/06/Screenshot3.jpg)
+![ScreenShot](https://poweroftheweb.net/wp-content/uploads/2015/06/Screenshot3.jpg)
 
 
 > This WordPress theme is truly built on Bootstrap 3.
